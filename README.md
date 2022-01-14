@@ -42,6 +42,16 @@ Letter of Acknowledgement
 </a>
 </td>
 
+<tr>
+<td> 5 </td>
+<td>Groww Hall of Fame</td>
+<td>
+<a href= "https://github.com/Rajspeaks/Infosec-Hall-of-Fames/blob/main/Groww/Groww%20HOF.pdf">
+Certificate of Appreciation
+</a>
+</td>
+
+
 </table>
 
 &copy; Rajdeep Das
