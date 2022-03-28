@@ -50,6 +50,15 @@ Letter of Acknowledgement
 Certificate of Appreciation
 </a>
 </td>
+  
+<tr>
+<td> 6 </td>
+<td>Coding Ninja Hall of Fame</td>
+<td>
+<a href= "https://github.com/Rajspeaks/Bug-Bounty-Hall-of-Fames/blob/main/Coding%20Ninja/Coding%20Ninja%20Infosec.pdf">
+Certificate of Appreciation
+</a>
+</td>
 
 
 </table>
