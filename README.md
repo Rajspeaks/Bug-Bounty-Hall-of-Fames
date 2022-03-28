@@ -79,7 +79,7 @@ Certificate of Appreciation
 </td>
 
 <tr>
-<td> 6 </td>
+<td> 9 </td>
 <td>Zyxel Hall of Fame</td>
 <td>
 <a href= "https://github.com/Rajspeaks/Bug-Bounty-Hall-of-Fames/blob/main/Zyxel/Certi%EF%AC%81cate%20of%20Recognition.pdf">
