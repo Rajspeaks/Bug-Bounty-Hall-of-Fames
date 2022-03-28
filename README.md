@@ -60,6 +60,33 @@ Certificate of Appreciation
 </a>
 </td>
 
+<tr>
+<td> 7 </td>
+<td>HUWEI Hall of Fame</td>
+<td>
+<a href= "https://github.com/Rajspeaks/Bug-Bounty-Hall-of-Fames/blob/main/Huawei/huawei.jpg">
+Certificate of Appreciation
+</a>
+</td>
+
+<tr>
+<td> 8 </td>
+<td>Lenovo Hall of Fame</td>
+<td>
+<a href= "https://github.com/Rajspeaks/Bug-Bounty-Hall-of-Fames/blob/main/Lenovo/Letter%20of%20Appreciation%20from%20Lenovo%20to%20Rajdeep%20Das.pdf">
+Certificate of Appreciation
+</a>
+</td>
+
+<tr>
+<td> 6 </td>
+<td>Zyxel Hall of Fame</td>
+<td>
+<a href= "https://github.com/Rajspeaks/Bug-Bounty-Hall-of-Fames/blob/main/Zyxel/Certi%EF%AC%81cate%20of%20Recognition.pdf">
+Certificate of Appreciation
+</a>
+</td>
+
 
 </table>
 
