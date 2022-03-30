@@ -62,7 +62,7 @@ Certificate of Appreciation
 
 <tr>
 <td> 7 </td>
-<td>HUWEI Hall of Fame</td>
+<td>HUAWEI Hall of Fame</td>
 <td>
 <a href= "https://github.com/Rajspeaks/Bug-Bounty-Hall-of-Fames/blob/main/Huawei/huawei.jpg">
 Certificate of Appreciation
