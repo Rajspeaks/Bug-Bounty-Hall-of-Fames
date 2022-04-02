@@ -87,6 +87,15 @@ Certificate of Appreciation
 </a>
 </td>
 
+<tr>
+<td> 10 </td>
+<td>GREYTIP Hall of Fame</td>
+<td>
+<a href= "https://github.com/Rajspeaks/Bug-Bounty-Hall-of-Fames/blob/main/GreyTip/GreyTip%20HOF.pdf">
+Certificate of Appreciation
+</a>
+</td>
+
 
 </table>
 
