@@ -96,6 +96,14 @@ Certificate of Appreciation
 </a>
 </td>
 
+<tr>
+<td> 11 </td>
+<td>Cambridge University Hall of Fame</td>
+<td>
+<a href= "https://github.com/Rajspeaks/Bug-Bounty-Hall-of-Fames/blob/main/Cambridge%20University/Rajdeep%20Das%20CAM%20HOF.pdf">
+Letter of Acknowledgement
+</a>
+</td>
 
 </table>
 
