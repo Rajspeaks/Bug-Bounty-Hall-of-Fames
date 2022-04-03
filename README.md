@@ -105,6 +105,45 @@ Letter of Acknowledgement
 </a>
 </td>
 
+<tr>
+<td> 12 </td>
+<td>Intel Hall of Fame</td>
+<td>
+<a href= "https://github.com/Rajspeaks/Bug-Bounty-Hall-of-Fames/blob/main/Intel/Intel%20HOF.pdf">
+Certificate of Appreciation
+</a>
+</td>
+
+<tr>
+<td> 13 </td>
+<td>McAfee Hall of Fame</td>
+<td>
+<a href= "https://github.com/Rajspeaks/Bug-Bounty-Hall-of-Fames/blob/main/McAfee/MCAFEE%20HOF.pdf">
+Certificate of Acknowledgement
+</a>
+</td>
+
+<tr>
+<td> 14 </td>
+<td>Sociality.io Hall of Fame</td>
+<td>
+<a href= "https://github.com/Rajspeaks/Bug-Bounty-Hall-of-Fames/blob/main/Sociality.io/Sociality.io%20HOF.pdf">
+Certificate of Appreciation
+</a>
+</td>
+
+<tr>
+<td> 15 </td>
+<td>iCBSE Hall of Fame</td>
+<td>
+<a href= "https://github.com/Rajspeaks/Bug-Bounty-Hall-of-Fames/blob/main/iCBSE/iCBSE%20HOF.pdf">
+Certificate of Appreciation
+</a>
+</td>
+
+
+
+
 </table>
 
 &copy; Rajdeep Das
