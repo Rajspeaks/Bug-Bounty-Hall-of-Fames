@@ -141,6 +141,14 @@ Certificate of Appreciation
 </a>
 </td>
 
+<tr>
+<td> 16 </td>
+<td>Zomato Hall of Fame</td>
+<td>
+<a href= "https://github.com/Rajspeaks/Bug-Bounty-Hall-of-Fames/blob/main/Zomato/Zomato%20HOF.pdf">
+Certificate of Appreciation
+</a>
+</td>
 
 
 
